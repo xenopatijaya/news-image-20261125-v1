@@ -1,8 +1,8 @@
 # News Image — Wednesday 25 November 2026
 
-![Competition](https://make.fun/badge/news-image-20261125.svg)
-![Rank](https://make.fun/badge/xenopatijaya/news-image-20261125-v1/rank.svg)
-![Reward](https://make.fun/badge/xenopatijaya/news-image-20261125-v1/reward.svg)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/xenopatijaya/news-image-20261125-v1/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/xenopatijaya/news-image-20261125-v1/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 One front page that sums up the world's news of **Wednesday 25 November 2026**:
 40 dated stories across 7 regions, six illustrated leads, a pin map, and a
